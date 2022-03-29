@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+results.csv
+links.csv
+journal_counts.txt
+geckodriver.log
+geckodriver.exe
+chromedriver.exe
