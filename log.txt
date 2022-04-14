@@ -1,0 +1,26 @@
+!!! doi.org !!! - 2022-04-14 16:49:00.441300
+!!! doi.apa.org:443 !!! - 2022-04-14 16:49:27.177883
+!!! doi.apa.org:443 !!! - 2022-04-14 16:49:30.555945
+!!! doi.apa.org:443 !!! - 2022-04-14 16:49:32.167023
+!!! doi.apa.org:443 !!! - 2022-04-14 16:49:33.364335
+!!! doi.apa.org:443 !!! - 2022-04-14 16:49:38.899744
+!!! doi.apa.org:443 !!! - 2022-04-14 16:49:45.083198
+!!! doi.apa.org:443 !!! - 2022-04-14 16:49:46.459408
+!!! doi.apa.org:443 !!! - 2022-04-14 16:49:48.183420
+Ran analyze_ref.3.ipynb succesfully, finding 9 journals not in list - 2022-04-14 16:49:51.822335
+Ran get_contents.2.ipynb succesfully, finding 305 references - 2022-04-14 16:56:24.408973
+!!! https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267143 !!! - 2022-04-14 17:12:23.979773
+!!! https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267116 !!! - 2022-04-14 17:12:24.624935
+!!! https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267091 !!! - 2022-04-14 17:12:24.906909
+!!! https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266974 !!! - 2022-04-14 17:12:26.092799
+!!! https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266916 !!! - 2022-04-14 17:12:26.792155
+!!! https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266910 !!! - 2022-04-14 17:12:27.190248
+!!! https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266872 !!! - 2022-04-14 17:12:27.515222
+!!! https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266855 !!! - 2022-04-14 17:12:27.950620
+!!! https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266834 !!! - 2022-04-14 17:12:28.379661
+!!! https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266732 !!! - 2022-04-14 17:12:28.985107
+!!! https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266624 !!! - 2022-04-14 17:12:30.166125
+!!! https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266564 !!! - 2022-04-14 17:12:30.840044
+!!! https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266499 !!! - 2022-04-14 17:12:31.298987
+Ran get_contents.2.ipynb succesfully, finding 305 references - 2022-04-14 17:12:31.636253
+Ran get_contents.2.ipynb succesfully, finding 305 references - 2022-04-14 17:14:16.386713
