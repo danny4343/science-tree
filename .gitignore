@@ -1,6 +1,10 @@
 .ipynb_checkpoints
-results.csv
-links.csv
+log.txt
+todo.txt
+orig.4.csv
+results.3.csv
+results.2.csv
+links.1.csv
 journal_counts.txt
 geckodriver.log
 geckodriver.exe
