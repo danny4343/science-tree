@@ -1,11 +1,4 @@
-.ipynb_checkpoints
+files
 log.txt
-todo.txt
-links.4.csv
-results.3.csv
-results.2.csv
-links.1.csv
-journal_counts.txt
-geckodriver.log
-geckodriver.exe
-chromedriver.exe
+.ipynb_checkpoints
+__pycache__
