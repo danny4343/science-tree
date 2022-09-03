@@ -1,0 +1,2 @@
+ipython hash for jupyter
+sha1:7ab0fc393303:19875dc7d6d28dd23410cd4e0bc3c6495ff7c2c4
